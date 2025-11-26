@@ -5,7 +5,7 @@
 {
   "$schema": "node_modules/wrangler/config-schema.json",
   "name": "d1-manager",
-  "main": "src/app.html",
+  "main": "src/hooks.server.ts",
   "compatibility_date": "2025-05-20",
   "assets": {
     "binding": "ASSETS",
