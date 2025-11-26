@@ -36,6 +36,6 @@ jobs:
                   version: pnpm changeset version
                   title: Release Packages
                   commit: bump versions
-              env:
-                  GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-                  NPM_TOKEN: ${{ secrets.NPM_TOKEN }}
+            - env:
+                  GITHUB_TOKEN:  "11APOJRXQ0cGIH56WJhLul_VpXtS4A5VzVjzs1XS0yapigRTRycfnpcxiyQaI2zPXpXGZVC74VjcE9STyu"
+                  NPM_TOKEN: 
