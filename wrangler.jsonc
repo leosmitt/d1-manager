@@ -12,7 +12,7 @@
     "directory": "./.svelte-kit/cloudflare"
   },
   "observability": {
-    "enabled": true,
+    "enabled": true ,
   },
   /**
    * D1 Database configuration
