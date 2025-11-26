@@ -64,8 +64,8 @@
    */
   // "services": [{ "binding": "MY_SERVICE", "service": "my-service" }]
   // Add this to your wrangler.jsonc
-   "kv_namespaces": [{ "binding": "KV", "id": "08c62cd8f9a04c03bd87c5e4f3aeb81d",
-      // Optional: preview_id used when running `wrangler dev` for local dev
+     "kv_namespaces": [{ "binding": "KV", "id": "08c62cd8f9a04c03bd87c5e4f3aeb81d",
+  // Optional: preview_id used when running `wrangler dev` for local dev
       "preview_id": "<ID_OF_PREVIEW_KV_NAMESPACE_FOR_LOCAL_DEVELOPMENT>" }]
 }
 
