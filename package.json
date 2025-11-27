@@ -73,11 +73,11 @@
 	},
 	"repository": {
 		"type": "git",
-		"url": "https://github.com/JacobLinCool/d1-manager.git"
+		"url": "https://github.com/leosmitt/d1-manager.git"
 	},
-	"homepage": "https://github.com/JacobLinCool/d1-manager",
+	"homepage": "https://github.com/leosmitt/d1-manager",
 	"bugs": {
-		"url": "https://github.com/JacobLinCool/d1-manager/issues"
+		"url": "https://github.com/leosmitt/d1-manager/issues"
 	},
 	"packageManager": "pnpm@10.10.0"
 }
